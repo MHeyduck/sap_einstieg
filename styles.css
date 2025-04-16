@@ -1,0 +1,59 @@
+body {
+  margin: 0;
+  padding: 0;
+  background-color: white;
+  font-family: Arial, sans-serif;
+  color: #001f2d;
+}
+
+.wrapper {
+  padding: 40px;
+  position: relative;
+  max-width: 1000px;
+  margin: auto;
+}
+
+.confidential {
+  position: absolute;
+  top: 40px;
+  right: 40px;
+  font-size: 14px;
+  color: #4a4a4a;
+  line-height: 1.4;
+  text-align: right;
+}
+
+.banner {
+  background-color: #002733;
+  padding: 30px 0;
+  text-align: center;
+  margin-bottom: 50px;
+}
+
+.banner-text {
+  font-size: 60px;
+  font-weight: bold;
+  color: #b6ff00;
+  letter-spacing: 2px;
+}
+
+.text-block {
+  font-size: 18px;
+  line-height: 2.4;
+  text-align: center;
+}
+
+.text-block p {
+  margin: 10px 0;
+}
+
+.example {
+  font-style: italic;
+  font-size: 16px;
+  color: #5c5c5c;
+}
+
+.highlight {
+  font-weight: bold;
+  color: #002733;
+}
